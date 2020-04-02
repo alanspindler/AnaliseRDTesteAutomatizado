@@ -1,0 +1,10 @@
+ACADEMIANET                   https://Lampp-prg:8443/svn/AcademiaNet/branches/sp021-06
+
+AnaliseRD                      https://Lampp-prg:8443/svn/AnaliseRD/branches/sp021-06
+
+PONTO4R1                      https://Lampp-prg:8443/svn/Ponto4r1/branches/sp021-06
+
+SITELampp		      https://Lampp-prg:8443/svn/SiteLampp/branches/sp021-06
+
+SITELampp2015	      https://Lampp-prg:8443/svn/SiteLampp2015/branches/sp021-06
+
